@@ -50,3 +50,8 @@ While choosing the right thread count for your king-sized bed sheets is crucial,
 ## Conclusion
 
 In the pursuit of a better night's sleep, choosing the right thread count for your king-sized bed sheets is a crucial step. Remember that thread count is just one factor to consider; material, climate, and personal preferences should also guide your decision. Whether you opt for crisp cotton bed sheets, breathable linen sheets, or a blend of both, your comfort and sleep quality should always be the top priority. Enhance your bedding collection with duvets, bath mats, and pillows tailored to your needs, and you'll be well on your way to a more restful night's sleep. Sweet dreams await you in your perfectly outfitted king-sized bed.
+
+## (For only your eyes)
+
+*SEO Score*
+![SEO Score](/images/Bedsheet-Score.png)

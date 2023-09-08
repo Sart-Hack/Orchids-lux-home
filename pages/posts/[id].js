@@ -4,6 +4,7 @@ import Head from 'next/head';
 import Date from '../../components/date';
 import utilStyles from '../../styles/utils.module.css';
 import { useEffect, useState } from 'react';
+import GuidelinesTable from "../../components/guidlines";
 
 
 
@@ -86,6 +87,10 @@ export default function Post({ postData }) {
           </div>
           <h1 className={utilStyles.headingXl}>{postData.title}</h1>  
           {/* Index containing all headings */}
+          <div style={{color: "green"}}>
+            <div>Ideal SEO Title length for keywords: {postData.keyWords} : {postData.idealTitleLen}</div>
+            <div>Actual Title length: {postData.titleLen}</div>
+          </div>
           <div>
             <h2>Table of Contents</h2>
             <ul>
@@ -103,7 +108,15 @@ export default function Post({ postData }) {
           </div>
 
           {/* Post content with an ID */}
+          <div style={{color: "green"}}>
+          <i>
+          <div>Ideal word Count range for targeted keywords : {postData.keyWords} is {postData.idealWordCount}</div>
+          <br></br>
+          <div>Actual word count for this article is : {postData.wordCount}</div>
+          </i>
+          </div>
           <div id="post-content" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+          <GuidelinesTable />
         </article>
       </Layout>
     </>

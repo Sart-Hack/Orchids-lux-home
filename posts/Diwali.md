@@ -77,3 +77,8 @@ Remember, Diwali is not just about lighting lamps and exchanging gifts; it's abo
 Get your materials, use the hot glue gun, and turn your home into a magical place for Diwali.. Happy decorating and wishing you a joyous and illuminated Diwali celebration!
 
 *Disclaimer: This article contains affiliate links, and we may earn a commission if you make a purchase through these links. However, this comes at no additional cost to you, and the products recommended are based on our genuine opinions and research.*
+
+## (For only your eyes)
+
+*SEO Score*
+![SEO Score](/images/Diwali-Score.png)
