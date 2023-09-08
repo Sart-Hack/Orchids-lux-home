@@ -8,6 +8,7 @@ wordCount: "882"
 idealWordCount: "872 - 913"
 keyWords: "Wood, Furniture"
 ---
+
 ---------------------------------------------------------------------------------------------
 ![dwada](https://images.unsplash.com/photo-1557367184-663fba4b8b91?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
 
@@ -23,11 +24,11 @@ Wood is the quintessential material for crafting furniture, with a rich history 
    When it comes to furniture, hardwood and softwood are the two primary categories. Hardwood, such as oak, cherry, and maple, is known for its strength and durability, making it an excellent choice for long-lasting pieces. On the other hand, softwood, like pine and cedar, is more readily available and often used for budget-friendly options.
 
 2. **Popular Furniture Woods**
-   a. *Oak*: Oak is prized for its durability and classic grain pattern. It's an excellent choice for traditional furniture pieces that can withstand the test of time.
-   b. *Cherry*: Cherry wood exhibits a beautiful reddish-brown hue that darkens over time, creating a warm and inviting atmosphere. It's often used in crafting elegant furniture.
-   c. *Maple*: Maple is known for its light color and smooth grain, making it a versatile option for a range of furniture styles, from modern to traditional.
-   d. *Walnut*: Walnut boasts a rich, dark color and a striking grain pattern. It's frequently used for crafting high-end, luxury furniture.
-   e. *Pine*: Pine is a softwood known for its affordability and light color. It's commonly used for budget-friendly furniture and rustic designs.
+- *Oak*: Oak is prized for its durability and classic grain pattern. It's an excellent choice for traditional furniture pieces that can withstand the test of time.
+-   *Cherry*: Cherry wood exhibits a beautiful reddish-brown hue that darkens over time, creating a warm and inviting atmosphere. It's often used in crafting elegant furniture.
+-   *Maple*: Maple is known for its light color and smooth grain, making it a versatile option for a range of furniture styles, from modern to traditional.
+-    *Walnut*: Walnut boasts a rich, dark color and a striking grain pattern. It's frequently used for crafting high-end, luxury furniture.
+-   *Pine*: Pine is a softwood known for its affordability and light color. It's commonly used for budget-friendly furniture and rustic designs.
 
 3. **Exotic Woods**
    For those seeking unique and luxurious options, consider exotic woods like mahogany, teak, or rosewood. These woods offer exquisite beauty and exceptional durability but often come at a higher price point.
