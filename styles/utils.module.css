@@ -50,3 +50,19 @@
 .lightText {
   color: #666;
 }
+
+.progressMainWrapper {
+  background-color: white;
+  height: 10px;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+.progressMainStyle {
+  height: 8px;
+  background-color: #ffc3a0;
+  width: 15%;
+}

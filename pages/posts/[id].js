@@ -85,6 +85,9 @@ export default function Post({ postData }) {
             <Date dateString={postData.date} />
             <h3>Written By : {postData.author}</h3>
           </div>
+          <div style={{color: "red"}}>
+            <div>Reading time: {(postData.wordCount/225).toFixed(1)} mins</div>
+          </div>
           <h1 className={utilStyles.headingXl}>{postData.title}</h1>  
           {/* Index containing all headings */}
           <div style={{color: "green"}}>

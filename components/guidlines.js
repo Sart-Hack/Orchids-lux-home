@@ -3,7 +3,7 @@ import React from 'react';
 const guidelines = [
   {
     link: 'https://developers.google.com/search/docs/fundamentals/creating-helpful-content',
-    text: 'Creating Helpful Content guidlines (By Google)',
+    text: 'Creating Helpful Content guidelines (By Google)',
   },
   {
     link: 'https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews',
