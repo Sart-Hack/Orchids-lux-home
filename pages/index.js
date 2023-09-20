@@ -29,7 +29,7 @@ export default function Home({ allPostsData }) {
         <p>At Orchids Lux Home, we specialize in creating enchanting bedding experiences for homeowners in the US in collaboration with interior designers, retailers, and other trade professionals.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
+        <h2 className={utilStyles.headingLg}>Newsletter</h2>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>
